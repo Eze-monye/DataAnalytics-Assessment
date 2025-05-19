@@ -31,7 +31,7 @@ The script performs the following actions:
     * Calculates the average monthly transaction count for each frequency category.
     * Orders the results with "High Frequency" appearing first, followed by "Medium Frequency", and then "Low Frequency".
 
-# Assessment_Q3 (Identifying Dormant Savings and Investment Accounts)
+# Assessment_Q3 (Account Inactivity Alert)
 
 This process identifies customer Savings and Investment plans exhibiting prolonged inactivity forn the opeartion team.
 --Categorize Plans: Classifies plans as 'Savings', 'Investment', or 'Other'.
