@@ -42,7 +42,7 @@ This process identifies customer Savings and Investment plans exhibiting prolong
   last activity exceeding 365 days.
 --Filters for only active plans (plans that is not deleted) and either     
   savings or investment plans.
---Prioritize by Inactivity: Orders results by inactivity duration in   
+- Prioritize by Inactivity: Orders results by inactivity duration in   
   descending order.
 
 # Assessment_Q4 (Customer Lifetime Value (CLV) Estimation)
